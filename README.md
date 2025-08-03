@@ -1,6 +1,6 @@
 # 🚀 Microsoft Fabric End-to-End Project
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Analytics%20Platform-purple)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
 ![AzureML](https://img.shields.io/badge/Azure%20Machine%20Learning-ML-blue)

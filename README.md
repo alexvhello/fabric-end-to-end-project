@@ -29,14 +29,14 @@ El diseño sigue el enfoque **Medallion Architecture**:
 - **Gold:** Modelado semántico en Warehouse para Power BI
 
 ### 📐 **Diagrama**
-![Arquitectura](assets/diagramas/arquitectura.jpg)
+![Arquitectura](assets/arquitectura.jpg)
 
 ---
 
 ## 🔄 **Flujo de Tareas**
 Basado en los flujos nativos de Microsoft Fabric:
 
-![Flujo de Tareas](assets/diagramas/taskflow.png)
+![Flujo de Tareas](assets/taskflow.png)
 
 - **Obtener datos:** Extracción desde orígenes on-premise y cloud
 - **Tienda:** Lakehouse (Bronze, Silver)

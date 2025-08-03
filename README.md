@@ -19,6 +19,7 @@ Includes **data ingestion, medallion architecture (Bronze, Silver, Gold), ETL pi
 | [📊 Power BI](docs/PowerBI.md) | Dashboards, KPIs y medidas DAX |
 | [🤖 Modelos Predictivos](docs/ModelosPredictivos.md) | Churn, predicción de abonos, segmentación |
 | [⚙ Deployment](docs/Deployment.md) | Cómo implementar y mantener el proyecto |
+| [📈 Monitoreo](docs/Monitoreo.md) | Supervisión de recursos y capacidades en Fabric |
 
 ---
 

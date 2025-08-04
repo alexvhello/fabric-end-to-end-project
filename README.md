@@ -23,7 +23,7 @@ Includes **data ingestion, medallion architecture (Bronze, Silver, Gold), ETL pi
 
 ---
 
-## 🏗 **Arquitectura del Proyecto**
+## 🏗 **Arquitectura del proyecto**
 El diseño sigue el enfoque **Medallion Architecture**:
 - **Bronze:** Ingesta de datos desde SQL Server y SharePoint
 - **Silver:** Transformaciones y limpieza en Lakehouse
@@ -34,7 +34,7 @@ El diseño sigue el enfoque **Medallion Architecture**:
 
 ---
 
-## 🔄 **Flujo de Tareas**
+## 🔄 **Flujo de tareas**
 Basado en los flujos nativos de Microsoft Fabric:
 
 ![Flujo de Tareas](assets/diagramas/taskflow.png)
@@ -49,16 +49,16 @@ Basado en los flujos nativos de Microsoft Fabric:
 
 ---
 
-## 🛠 **Tecnologías Utilizadas**
+## 🛠 **Tecnologías utilizadas**
 - **Microsoft Fabric**: Lakehouse, Warehouse, Pipelines, Dataflows Gen2
 - **Power BI**: KPIs, informes, dashboards
-- **Azure Machine Learning**: Entrenamiento, scoring y despliegue
+- **Fabric Data Science**: Entrenamiento, scoring y despliegue
 - **SQL Server / SharePoint**: Orígenes de datos
 - **GitHub**: Control de versiones y documentación
 
 ---
 
-## ▶ **Cómo Ejecutar**
-1. Clona este repositorio:
+## ▶ **Cómo ejecutar**
+Clona este repositorio:
    ```bash
    git clone https://github.com/alexvhello/fabric-end-to-end-project.git
